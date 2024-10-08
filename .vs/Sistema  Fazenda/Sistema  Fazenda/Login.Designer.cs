@@ -126,7 +126,7 @@
             this.Controls.Add(this.lblSenhaTitulo);
             this.Controls.Add(this.lblUsuarioTitulo);
             this.Name = "Login";
-            this.Text = "Form1";
+            this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();
 
