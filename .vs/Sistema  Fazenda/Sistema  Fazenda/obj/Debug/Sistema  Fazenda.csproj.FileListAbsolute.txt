@@ -1,0 +1,10 @@
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\bin\Debug\Sistema  Fazenda.exe.config
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\bin\Debug\Sistema  Fazenda.exe
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\bin\Debug\Sistema  Fazenda.pdb
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.csproj.AssemblyReference.cache
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Login.resources
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Properties.Resources.resources
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.csproj.GenerateResource.cache
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.csproj.CoreCompileInputs.cache
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.exe
+C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.pdb
