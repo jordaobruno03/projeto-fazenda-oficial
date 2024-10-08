@@ -59,10 +59,10 @@
             // lblLoginTitulo
             // 
             this.lblLoginTitulo.AutoSize = true;
-            this.lblLoginTitulo.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblLoginTitulo.Location = new System.Drawing.Point(84, 32);
+            this.lblLoginTitulo.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLoginTitulo.Location = new System.Drawing.Point(84, 31);
             this.lblLoginTitulo.Name = "lblLoginTitulo";
-            this.lblLoginTitulo.Size = new System.Drawing.Size(68, 34);
+            this.lblLoginTitulo.Size = new System.Drawing.Size(74, 37);
             this.lblLoginTitulo.TabIndex = 2;
             this.lblLoginTitulo.Text = "Login";
             // 
