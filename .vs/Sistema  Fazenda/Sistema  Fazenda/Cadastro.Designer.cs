@@ -89,21 +89,29 @@
             // 
             // btnVoltar
             // 
+            this.btnVoltar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnVoltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVoltar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnVoltar.Location = new System.Drawing.Point(45, 267);
             this.btnVoltar.Name = "btnVoltar";
-            this.btnVoltar.Size = new System.Drawing.Size(75, 23);
+            this.btnVoltar.Size = new System.Drawing.Size(75, 25);
             this.btnVoltar.TabIndex = 6;
             this.btnVoltar.Text = "Voltar";
-            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.UseVisualStyleBackColor = false;
             // 
             // btnIncluirCadastro
             // 
+            this.btnIncluirCadastro.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnIncluirCadastro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnIncluirCadastro.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnIncluirCadastro.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnIncluirCadastro.Location = new System.Drawing.Point(352, 267);
             this.btnIncluirCadastro.Name = "btnIncluirCadastro";
-            this.btnIncluirCadastro.Size = new System.Drawing.Size(107, 23);
+            this.btnIncluirCadastro.Size = new System.Drawing.Size(107, 25);
             this.btnIncluirCadastro.TabIndex = 7;
             this.btnIncluirCadastro.Text = "Incluir Cadastro";
-            this.btnIncluirCadastro.UseVisualStyleBackColor = true;
+            this.btnIncluirCadastro.UseVisualStyleBackColor = false;
             // 
             // lblCadastreseTitulo
             // 
