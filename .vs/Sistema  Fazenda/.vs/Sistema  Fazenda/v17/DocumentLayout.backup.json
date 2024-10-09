@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Sistema  Fazenda\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Cadastro.cs [Design]",
+              "RelativeToolTip": "Sistema  Fazenda\\Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:46:03.012Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Login.cs",
               "RelativeDocumentMoniker": "Sistema  Fazenda\\Login.cs",
@@ -53,32 +62,6 @@
               "WhenOpened": "2024-10-08T19:55:40.026Z",
               "IsPinned": true,
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Login.Designer.cs",
-              "RelativeDocumentMoniker": "Sistema  Fazenda\\Login.Designer.cs",
-              "ToolTip": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Login.Designer.cs",
-              "RelativeToolTip": "Sistema  Fazenda\\Login.Designer.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAowH4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:09:43.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Login.cs",
-              "RelativeDocumentMoniker": "Sistema  Fazenda\\Login.cs",
-              "ToolTip": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Login.cs",
-              "RelativeToolTip": "Sistema  Fazenda\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:09:34.341Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
