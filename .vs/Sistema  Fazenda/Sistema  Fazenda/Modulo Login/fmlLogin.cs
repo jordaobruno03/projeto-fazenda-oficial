@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace Sistema__Fazenda
 {
-    public partial class Cadastro : Form
+    public partial class fmlLogin : Form
     {
-        public Cadastro()
+        public fmlLogin()
         {
             InitializeComponent();
         }
+
+
     }
 }

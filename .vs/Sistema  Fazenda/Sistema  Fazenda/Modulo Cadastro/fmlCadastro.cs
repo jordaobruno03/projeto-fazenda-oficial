@@ -10,8 +10,11 @@ using System.Windows.Forms;
 
 namespace Sistema__Fazenda
 {
-    public partial class Incluir__Editar_e_Visualizar_Produtos : Form
+    public partial class fmlCadastro : Form
     {
-
+        public fmlCadastro()
+        {
+            InitializeComponent();
+        }
     }
 }

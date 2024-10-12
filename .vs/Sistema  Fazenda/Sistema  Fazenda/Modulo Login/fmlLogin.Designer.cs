@@ -1,6 +1,6 @@
 ﻿namespace Sistema__Fazenda
 {
-    partial class Login
+    partial class fmlLogin
     {
         /// <summary>
         /// Variável de designer necessária.
