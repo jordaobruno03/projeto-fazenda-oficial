@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Sistema__Fazenda
 {
-    public partial class MenuPrincipal : Form
+    public partial class fmlCadastro : Form
     {
-        public MenuPrincipal()
+        public fmlCadastro()
         {
             InitializeComponent();
         }

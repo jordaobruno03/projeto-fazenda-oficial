@@ -46,61 +46,67 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cadastro.cs">
+    <Compile Include="Modulo Pedidos\fmlPedidos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Cadastro.Designer.cs">
-      <DependentUpon>Cadastro.cs</DependentUpon>
+    <Compile Include="Modulo Pedidos\fmlPedidos.Designer.cs">
+      <DependentUpon>fmlPedidos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Crud Clientes.cs">
+    <Compile Include="Modulo Cadastro\fmlCadastro.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Crud Clientes.Designer.cs">
-      <DependentUpon>Crud Clientes.cs</DependentUpon>
+    <Compile Include="Modulo Cadastro\fmlCadastro.Designer.cs">
+      <DependentUpon>fmlCadastro.cs</DependentUpon>
     </Compile>
-    <Compile Include="Crud Fornecedor.cs">
+    <Compile Include="Modulo Clientes\fmlCrudClientes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Crud Fornecedor.Designer.cs">
-      <DependentUpon>Crud Fornecedor.cs</DependentUpon>
+    <Compile Include="Modulo Clientes\fmlCrudClientes.Designer.cs">
+      <DependentUpon>fmlCrudClientes.cs</DependentUpon>
     </Compile>
-    <Compile Include="Incluir, Editar e Visualizar Produtos.cs">
+    <Compile Include="Modulo Fornecedores\fmlCrudFornecedor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Incluir, Editar e Visualizar Produtos.Designer.cs">
-      <DependentUpon>Incluir, Editar e Visualizar Produtos.cs</DependentUpon>
+    <Compile Include="Modulo Fornecedores\fmlCrudFornecedor.Designer.cs">
+      <DependentUpon>fmlCrudFornecedor.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login.cs">
+    <Compile Include="Modulo Produtos\fmlCrudProdutos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login.Designer.cs">
-      <DependentUpon>Login.cs</DependentUpon>
+    <Compile Include="Modulo Produtos\fmlCrudProdutos.Designer.cs">
+      <DependentUpon>fmlCrudProdutos.cs</DependentUpon>
     </Compile>
-    <Compile Include="MenuPrincipal.cs">
+    <Compile Include="Modulo Login\fmlLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MenuPrincipal.Designer.cs">
-      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    <Compile Include="Modulo Login\fmlLogin.Designer.cs">
+      <DependentUpon>fmlLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo Menu Principal\fmlMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo Menu Principal\fmlMenuPrincipal.Designer.cs">
+      <DependentUpon>fmlMenuPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Cadastro.resx">
-      <DependentUpon>Cadastro.cs</DependentUpon>
+    <EmbeddedResource Include="Modulo Cadastro\fmlCadastro.resx">
+      <DependentUpon>fmlCadastro.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Crud Clientes.resx">
-      <DependentUpon>Crud Clientes.cs</DependentUpon>
+    <EmbeddedResource Include="Modulo Clientes\fmlCrudClientes.resx">
+      <DependentUpon>fmlCrudClientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Crud Fornecedor.resx">
-      <DependentUpon>Crud Fornecedor.cs</DependentUpon>
+    <EmbeddedResource Include="Modulo Fornecedores\fmlCrudFornecedor.resx">
+      <DependentUpon>fmlCrudFornecedor.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Incluir, Editar e Visualizar Produtos.resx">
-      <DependentUpon>Incluir, Editar e Visualizar Produtos.cs</DependentUpon>
+    <EmbeddedResource Include="Modulo Produtos\fmlCrudProdutos.resx">
+      <DependentUpon>fmlCrudProdutos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
-      <DependentUpon>Login.cs</DependentUpon>
+    <EmbeddedResource Include="Modulo Login\fmlLogin.resx">
+      <DependentUpon>fmlLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MenuPrincipal.resx">
-      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    <EmbeddedResource Include="Modulo Menu Principal\fmlMenuPrincipal.resx">
+      <DependentUpon>fmlMenuPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

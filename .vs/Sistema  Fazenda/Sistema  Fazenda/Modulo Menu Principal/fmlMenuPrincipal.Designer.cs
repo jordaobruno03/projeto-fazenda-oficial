@@ -1,6 +1,6 @@
 ﻿namespace Sistema__Fazenda
 {
-    partial class MenuPrincipal
+    partial class fmlMenuPrincipal
     {
         /// <summary>
         /// Required designer variable.

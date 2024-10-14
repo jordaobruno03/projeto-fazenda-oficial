@@ -1,6 +1,6 @@
 ﻿namespace Sistema__Fazenda
 {
-    partial class Cadastro
+    partial class fmlCadastro
     {
         /// <summary>
         /// Required designer variable.
