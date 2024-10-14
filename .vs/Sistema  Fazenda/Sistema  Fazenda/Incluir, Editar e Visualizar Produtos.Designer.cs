@@ -1,6 +1,6 @@
 ﻿namespace Sistema__Fazenda
 {
-    partial class Incluir__Editar_e_Visualizar_Produtos
+    partial class Crud_Produtos
     {
         /// <summary>
         /// Required designer variable.
@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.selecioneOProdutoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripComboBox1 = new System.Windows.Forms.ToolStripComboBox();
             this.btnCarregar = new System.Windows.Forms.Button();
-            this.selecioneOProdutoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lblID = new System.Windows.Forms.Label();
             this.lblNomeProduto = new System.Windows.Forms.Label();
             this.lblFornecedorproduto = new System.Windows.Forms.Label();
@@ -66,6 +66,12 @@
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
+            // selecioneOProdutoToolStripMenuItem
+            // 
+            this.selecioneOProdutoToolStripMenuItem.Name = "selecioneOProdutoToolStripMenuItem";
+            this.selecioneOProdutoToolStripMenuItem.Size = new System.Drawing.Size(128, 23);
+            this.selecioneOProdutoToolStripMenuItem.Text = "Selecione o Produto:";
+            // 
             // toolStripComboBox1
             // 
             this.toolStripComboBox1.Name = "toolStripComboBox1";
@@ -80,12 +86,6 @@
             this.btnCarregar.TabIndex = 1;
             this.btnCarregar.Text = "Carregar";
             this.btnCarregar.UseVisualStyleBackColor = true;
-            // 
-            // selecioneOProdutoToolStripMenuItem
-            // 
-            this.selecioneOProdutoToolStripMenuItem.Name = "selecioneOProdutoToolStripMenuItem";
-            this.selecioneOProdutoToolStripMenuItem.Size = new System.Drawing.Size(128, 23);
-            this.selecioneOProdutoToolStripMenuItem.Text = "Selecione o Produto:";
             // 
             // lblID
             // 
@@ -263,7 +263,7 @@
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = false;
             // 
-            // Incluir__Editar_e_Visualizar_Produtos
+            // Crud_Produtos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -291,8 +291,8 @@
             this.Controls.Add(this.btnCarregar);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Incluir__Editar_e_Visualizar_Produtos";
-            this.Text = "Incluir__Editar_e_Visualizar_Produtos";
+            this.Name = "Crud_Produtos";
+            this.Text = "Crud Produtos";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

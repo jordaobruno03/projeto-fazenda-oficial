@@ -52,6 +52,12 @@
     <Compile Include="Cadastro.Designer.cs">
       <DependentUpon>Cadastro.cs</DependentUpon>
     </Compile>
+    <Compile Include="Crud Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crud Clientes.Designer.cs">
+      <DependentUpon>Crud Clientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Crud Fornecedor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Cadastro.resx">
       <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crud Clientes.resx">
+      <DependentUpon>Crud Clientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Crud Fornecedor.resx">
       <DependentUpon>Crud Fornecedor.cs</DependentUpon>

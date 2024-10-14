@@ -10,8 +10,11 @@ using System.Windows.Forms;
 
 namespace Sistema__Fazenda
 {
-    public partial class Crud_Produtos : Form
+    public partial class Crud_Clientes : Form
     {
-
+        public Crud_Clientes()
+        {
+            InitializeComponent();
+        }
     }
 }

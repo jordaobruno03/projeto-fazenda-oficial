@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\sistema  fazenda\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\incluir, editar e visualizar produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\incluir, editar e visualizar produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\crud fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\crud fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\sistema  fazenda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\meloe\\onedrive\\documentos\\github\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\crud clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\crud clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\sistema  fazenda\\incluir, editar e visualizar produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\incluir, editar e visualizar produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\sistema  fazenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Login.cs",
               "RelativeDocumentMoniker": "Sistema  Fazenda\\Login.cs",
@@ -43,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cadastro.cs [Design]",
               "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Cadastro.cs",
               "RelativeDocumentMoniker": "Sistema  Fazenda\\Cadastro.cs",
@@ -70,6 +78,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Crud Fornecedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Crud Fornecedor.cs",
+              "RelativeDocumentMoniker": "Sistema  Fazenda\\Crud Fornecedor.cs",
+              "ToolTip": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Crud Fornecedor.cs [Design]",
+              "RelativeToolTip": "Sistema  Fazenda\\Crud Fornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:38:13.125Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Incluir, Editar e Visualizar Produtos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Incluir, Editar e Visualizar Produtos.cs",
               "RelativeDocumentMoniker": "Sistema  Fazenda\\Incluir, Editar e Visualizar Produtos.cs",
@@ -77,6 +98,19 @@
               "RelativeToolTip": "Sistema  Fazenda\\Incluir, Editar e Visualizar Produtos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T22:15:29.005Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crud Clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Crud Clientes.cs",
+              "RelativeDocumentMoniker": "Sistema  Fazenda\\Crud Clientes.cs",
+              "ToolTip": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Crud Clientes.cs [Design]",
+              "RelativeToolTip": "Sistema  Fazenda\\Crud Clientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:54:34.395Z",
               "EditorCaption": " [Design]"
             },
             {
