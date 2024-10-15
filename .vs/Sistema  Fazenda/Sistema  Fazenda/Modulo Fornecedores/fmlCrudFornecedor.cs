@@ -12,7 +12,7 @@ namespace Sistema__Fazenda
 {
     public partial class Crud_Fornecedor : Form
     {
-        public Crud_Fornecedor()
+        public Crud_Fornecedor(Util.BD.SqlFactory factory)
         {
             InitializeComponent();
         }

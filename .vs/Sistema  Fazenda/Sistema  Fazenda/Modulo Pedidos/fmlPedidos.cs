@@ -12,7 +12,7 @@ namespace Sistema__Fazenda
 {
     public partial class fmlPedidos : Form
     {
-        public fmlPedidos()
+        public fmlPedidos(Util.BD.SqlFactory factory)
         {
             InitializeComponent();
         }

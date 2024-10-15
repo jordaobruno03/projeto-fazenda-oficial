@@ -48,6 +48,7 @@
             this.btnProdutosMenu.TabIndex = 0;
             this.btnProdutosMenu.Text = "Produtos";
             this.btnProdutosMenu.UseVisualStyleBackColor = false;
+            this.btnProdutosMenu.Click += new System.EventHandler(this.btnProdutosMenu_Click);
             // 
             // btnClientesMenu
             // 
@@ -61,6 +62,7 @@
             this.btnClientesMenu.TabIndex = 1;
             this.btnClientesMenu.Text = "Clientes";
             this.btnClientesMenu.UseVisualStyleBackColor = false;
+            this.btnClientesMenu.Click += new System.EventHandler(this.btnClientesMenu_Click);
             // 
             // btnFornecedoresMenu
             // 
@@ -74,6 +76,7 @@
             this.btnFornecedoresMenu.TabIndex = 2;
             this.btnFornecedoresMenu.Text = "Fornecedores";
             this.btnFornecedoresMenu.UseVisualStyleBackColor = false;
+            this.btnFornecedoresMenu.Click += new System.EventHandler(this.btnFornecedoresMenu_Click);
             // 
             // btnRelatorios
             // 
@@ -87,6 +90,7 @@
             this.btnRelatorios.TabIndex = 3;
             this.btnRelatorios.Text = "Relatórios";
             this.btnRelatorios.UseVisualStyleBackColor = false;
+            this.btnRelatorios.Click += new System.EventHandler(this.btnRelatorios_Click);
             // 
             // btnPedidosMenu
             // 
@@ -100,18 +104,20 @@
             this.btnPedidosMenu.TabIndex = 4;
             this.btnPedidosMenu.Text = "Pedidos";
             this.btnPedidosMenu.UseVisualStyleBackColor = false;
+            this.btnPedidosMenu.Click += new System.EventHandler(this.btnPedidosMenu_Click);
             // 
             // lblMenuPrincipalTitulo
             // 
             this.lblMenuPrincipalTitulo.AutoSize = true;
-            this.lblMenuPrincipalTitulo.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 21F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMenuPrincipalTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMenuPrincipalTitulo.Location = new System.Drawing.Point(103, 20);
             this.lblMenuPrincipalTitulo.Name = "lblMenuPrincipalTitulo";
-            this.lblMenuPrincipalTitulo.Size = new System.Drawing.Size(168, 36);
+            this.lblMenuPrincipalTitulo.Size = new System.Drawing.Size(203, 32);
             this.lblMenuPrincipalTitulo.TabIndex = 5;
             this.lblMenuPrincipalTitulo.Text = "Menu Principal";
+            this.lblMenuPrincipalTitulo.Click += new System.EventHandler(this.lblMenuPrincipalTitulo_Click);
             // 
-            // MenuPrincipal
+            // fmlMenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -122,7 +128,7 @@
             this.Controls.Add(this.btnFornecedoresMenu);
             this.Controls.Add(this.btnClientesMenu);
             this.Controls.Add(this.btnProdutosMenu);
-            this.Name = "MenuPrincipal";
+            this.Name = "fmlMenuPrincipal";
             this.Text = "MenuPrincipal";
             this.ResumeLayout(false);
             this.PerformLayout();

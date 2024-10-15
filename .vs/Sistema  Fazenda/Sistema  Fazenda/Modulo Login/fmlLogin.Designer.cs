@@ -59,10 +59,10 @@
             // lblLoginTitulo
             // 
             this.lblLoginTitulo.AutoSize = true;
-            this.lblLoginTitulo.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLoginTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLoginTitulo.Location = new System.Drawing.Point(84, 31);
             this.lblLoginTitulo.Name = "lblLoginTitulo";
-            this.lblLoginTitulo.Size = new System.Drawing.Size(74, 37);
+            this.lblLoginTitulo.Size = new System.Drawing.Size(86, 33);
             this.lblLoginTitulo.TabIndex = 2;
             this.lblLoginTitulo.Text = "Login";
             // 
@@ -111,8 +111,9 @@
             this.btnEntrarLogin.TabIndex = 7;
             this.btnEntrarLogin.Text = "Entrar";
             this.btnEntrarLogin.UseVisualStyleBackColor = false;
+            this.btnEntrarLogin.Click += new System.EventHandler(this.btnEntrarLogin_Click);
             // 
-            // Login
+            // fmlLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -125,7 +126,7 @@
             this.Controls.Add(this.lblLoginTitulo);
             this.Controls.Add(this.lblSenhaTitulo);
             this.Controls.Add(this.lblUsuarioTitulo);
-            this.Name = "Login";
+            this.Name = "fmlLogin";
             this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();

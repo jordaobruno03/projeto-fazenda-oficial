@@ -91,6 +91,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\BD\SqlFactory.cs" />
     <EmbeddedResource Include="Modulo Cadastro\fmlCadastro.resx">
       <DependentUpon>fmlCadastro.cs</DependentUpon>
     </EmbeddedResource>
