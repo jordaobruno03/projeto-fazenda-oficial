@@ -1,6 +1,6 @@
 ﻿namespace Sistema__Fazenda
 {
-    partial class fmlMenuPrincipal
+    partial class FmlMenuPrincipal
     {
         /// <summary>
         /// Required designer variable.
@@ -48,6 +48,7 @@
             this.btnProdutosMenu.TabIndex = 0;
             this.btnProdutosMenu.Text = "Produtos";
             this.btnProdutosMenu.UseVisualStyleBackColor = false;
+            this.btnProdutosMenu.Click += new System.EventHandler(this.btnProdutosMenu_Click);
             // 
             // btnClientesMenu
             // 
@@ -74,6 +75,7 @@
             this.btnFornecedoresMenu.TabIndex = 2;
             this.btnFornecedoresMenu.Text = "Fornecedores";
             this.btnFornecedoresMenu.UseVisualStyleBackColor = false;
+            this.btnFornecedoresMenu.Click += new System.EventHandler(this.btnFornecedoresMenu_Click);
             // 
             // btnRelatorios
             // 
@@ -111,7 +113,7 @@
             this.lblMenuPrincipalTitulo.TabIndex = 5;
             this.lblMenuPrincipalTitulo.Text = "Menu Principal";
             // 
-            // MenuPrincipal
+            // FmlMenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -122,7 +124,7 @@
             this.Controls.Add(this.btnFornecedoresMenu);
             this.Controls.Add(this.btnClientesMenu);
             this.Controls.Add(this.btnProdutosMenu);
-            this.Name = "MenuPrincipal";
+            this.Name = "FmlMenuPrincipal";
             this.Text = "MenuPrincipal";
             this.ResumeLayout(false);
             this.PerformLayout();

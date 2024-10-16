@@ -43,8 +43,8 @@
             this.btnCarregarFornecedor = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.selecioneOProdutoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripComboBox1 = new System.Windows.Forms.ToolStripComboBox();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripComboBox1 = new System.Windows.Forms.ToolStripComboBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -83,6 +83,7 @@
             this.IncluirFornecedor.TabIndex = 41;
             this.IncluirFornecedor.Text = "Incluir";
             this.IncluirFornecedor.UseVisualStyleBackColor = false;
+            this.IncluirFornecedor.Click += new System.EventHandler(this.IncluirFornecedor_Click);
             // 
             // btnVoltarFornecedor
             // 
@@ -190,15 +191,15 @@
             this.selecioneOProdutoToolStripMenuItem.Size = new System.Drawing.Size(145, 23);
             this.selecioneOProdutoToolStripMenuItem.Text = "Selecione o Fornecedor:";
             // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(57, 6);
+            // 
             // toolStripComboBox1
             // 
             this.toolStripComboBox1.Name = "toolStripComboBox1";
             this.toolStripComboBox1.Size = new System.Drawing.Size(121, 23);
-            // 
-            // toolStripSeparator1
-            // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
             // 
             // Crud_Fornecedor
             // 

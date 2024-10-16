@@ -123,7 +123,7 @@
             this.lblCadastreseTitulo.TabIndex = 8;
             this.lblCadastreseTitulo.Text = "Cadastre-se";
             // 
-            // Cadastro
+            // fmlCadastro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -137,7 +137,8 @@
             this.Controls.Add(this.lblConfirmarSenhaCadastro);
             this.Controls.Add(this.lblSenhaCadastro);
             this.Controls.Add(this.lblUsuarioCadastro);
-            this.Name = "Cadastro";
+            this.Name = "fmlCadastro";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro";
             this.ResumeLayout(false);
             this.PerformLayout();

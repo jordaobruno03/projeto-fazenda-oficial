@@ -111,8 +111,9 @@
             this.btnEntrarLogin.TabIndex = 7;
             this.btnEntrarLogin.Text = "Entrar";
             this.btnEntrarLogin.UseVisualStyleBackColor = false;
+            this.btnEntrarLogin.Click += new System.EventHandler(this.btnEntrarLogin_Click);
             // 
-            // Login
+            // fmlLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -125,7 +126,8 @@
             this.Controls.Add(this.lblLoginTitulo);
             this.Controls.Add(this.lblSenhaTitulo);
             this.Controls.Add(this.lblUsuarioTitulo);
-            this.Name = "Login";
+            this.Name = "fmlLogin";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -17,6 +17,11 @@ namespace Sistema__Fazenda
             InitializeComponent();
         }
 
-
+        private void btnEntrarLogin_Click(object sender, EventArgs e)
+        {
+            FmlMenuPrincipal menu = new FmlMenuPrincipal();
+            menu.Show();
+            this.Hide();
+        }
     }
 }
