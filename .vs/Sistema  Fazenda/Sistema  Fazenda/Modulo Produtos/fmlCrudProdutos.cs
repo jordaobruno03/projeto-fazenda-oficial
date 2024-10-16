@@ -12,6 +12,11 @@ namespace Sistema__Fazenda
 {
     public partial class Crud_Produtos : Form
     {
+        private object factory;
 
+        public Crud_Produtos(object factory)
+        {
+            this.factory = factory;
+        }
     }
 }

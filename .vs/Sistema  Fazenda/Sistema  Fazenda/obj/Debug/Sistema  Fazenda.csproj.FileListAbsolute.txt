@@ -7,9 +7,27 @@ C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  F
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.csproj.CoreCompileInputs.cache
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.exe
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.pdb
+<<<<<<< HEAD
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.fmlCadastro.resources
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Crud_Clientes.resources
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Crud_Fornecedor.resources
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Crud_Produtos.resources
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.fmlLogin.resources
 C:\Users\meloe\OneDrive\Documentos\GitHub\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.fmlMenuPrincipal.resources
+=======
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.fmlCadastro.resources
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Crud_Clientes.resources
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Crud_Fornecedor.resources
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Crud_Produtos.resources
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.fmlLogin.resources
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.fmlMenuPrincipal.resources
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema__Fazenda.Properties.Resources.resources
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.csproj.GenerateResource.cache
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.exe
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\obj\Debug\Sistema  Fazenda.pdb
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\bin\Debug\Sistema  Fazenda.exe.config
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\bin\Debug\Sistema  Fazenda.exe
+C:\Users\Henrique\source\repos\projeto-fazenda-oficial\.vs\projeto-fazenda-oficial\.vs\Sistema  Fazenda\Sistema  Fazenda\bin\Debug\Sistema  Fazenda.pdb
+>>>>>>> 58c16cd1c2739be13cfec2f49da23ab5924550f4

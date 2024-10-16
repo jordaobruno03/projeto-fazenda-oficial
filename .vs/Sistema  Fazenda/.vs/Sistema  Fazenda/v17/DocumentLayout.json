@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\",
+  "WorkspaceRootPath": "C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|C:\\Users\\meloe\\OneDrive\\Documentos\\GitHub\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\sistema  fazenda\\modulo fornecedores\\fmlcrudfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\modulo fornecedores\\fmlcrudfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -16,6 +17,18 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/BRUNO/fazenda/True/SqlTable/dbo.Fornecedor1.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+=======
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|c:\\users\\henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\sistema  fazenda\\sistema  fazenda\\modulo menu principal\\fmlmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\modulo menu principal\\fmlmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\sistema  fazenda\\modulo menu principal\\fmlmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\modulo menu principal\\fmlmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\sistema  fazenda\\modulo login\\fmllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0D1840-072C-4203-A9EF-64CF80357E5C}|Sistema  Fazenda\\Sistema  Fazenda.csproj|solutionrelative:sistema  fazenda\\modulo login\\fmllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 58c16cd1c2739be13cfec2f49da23ab5924550f4
     }
   ],
   "DocumentGroupContainers": [
@@ -25,6 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -78,6 +92,53 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T12:51:26.544Z",
               "EditorCaption": ""
+=======
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fmlLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Modulo Login\\fmlLogin.cs",
+              "RelativeDocumentMoniker": "Sistema  Fazenda\\Modulo Login\\fmlLogin.cs",
+              "ToolTip": "C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Modulo Login\\fmlLogin.cs",
+              "RelativeToolTip": "Sistema  Fazenda\\Modulo Login\\fmlLogin.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:30:49.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fmlMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Modulo Menu Principal\\fmlMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema  Fazenda\\Modulo Menu Principal\\fmlMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Modulo Menu Principal\\fmlMenuPrincipal.cs",
+              "RelativeToolTip": "Sistema  Fazenda\\Modulo Menu Principal\\fmlMenuPrincipal.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:32:43.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fmlMenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Modulo Menu Principal\\fmlMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema  Fazenda\\Modulo Menu Principal\\fmlMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Henrique\\source\\repos\\projeto-fazenda-oficial\\.vs\\projeto-fazenda-oficial\\.vs\\Sistema  Fazenda\\Sistema  Fazenda\\Modulo Menu Principal\\fmlMenuPrincipal.cs [Design]",
+              "RelativeToolTip": "Sistema  Fazenda\\Modulo Menu Principal\\fmlMenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:56:30.011Z"
+>>>>>>> 58c16cd1c2739be13cfec2f49da23ab5924550f4
             }
           ]
         }

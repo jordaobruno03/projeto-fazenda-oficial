@@ -13,11 +13,15 @@ namespace Sistema__Fazenda
 {
     public partial class Crud_Fornecedor : Form
     {
+<<<<<<< HEAD
  
         Conexao conect = new Conexao();
         string sql;
         SqlCommand cmd;
         public Crud_Fornecedor()
+=======
+        public Crud_Fornecedor(Util.BD.SqlFactory factory)
+>>>>>>> 58c16cd1c2739be13cfec2f49da23ab5924550f4
         {
             InitializeComponent();
         }
